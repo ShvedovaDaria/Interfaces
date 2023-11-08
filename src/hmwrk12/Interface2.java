@@ -1,3 +1,5 @@
+package hmwrk12;
+
 // Другий інтерфейс з абстрактним, статичним та по-замовчуванню методами.
 interface Interface2 {
     void abstractMethod2();
